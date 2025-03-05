@@ -31,10 +31,13 @@ body {
     font-weight: bold;
     color: #444;
 }
+
 .menu-item h4 {
     margin-top: 15px; /* Jarak antara gambar dan tajuk */
     font-size: 1.3rem; /* Boleh sesuaikan jika perlu */
 }
+
+/*baru tambah*/
 .menu-item {
     text-align: center;
     padding: 20px;
