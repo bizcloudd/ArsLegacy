@@ -31,17 +31,15 @@ body {
     font-weight: bold;
     color: #444;
 }
+.menu-item h4 {
+    margin-top: 15px; /* Jarak antara gambar dan tajuk */
+    font-size: 1.3rem; /* Boleh sesuaikan jika perlu */
+}
 .menu-item {
     text-align: center;
     padding: 20px;
     position: relative;
 }
-
-.menu-item h4 {
-    margin-top: 15px; /* Jarak antara gambar dan tajuk */
-    font-size: 1.3rem; /* Boleh sesuaikan jika perlu */
-}
-
 .info-box {
     position: absolute;
     top: 50%;
